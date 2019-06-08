@@ -1,0 +1,328 @@
+MICKEL, JOHN (06/16/1985) #HF180081690
+
+Encounter DOS: 04/25/2018
+
+Encounter ID: 61989164
+Primary Ins:
+SELF PAY
+
+DOB :
+Race:
+Language: English
+Ethnicity:
+
+06/16/1985 (32)
+White
+
+Not Hispanic or
+Latino
+
+Provider:
+
+ DAVID BICK, MD
+
+Patient:
+
+MICKEL, JOHN(Male)
+1172 SO. CRESCENT
+HEIGHTS BLVD.
+LOS ANGELES CA 90030
+(240)832-6367*
+MEDISPOOL@GMAIL.CO
+M
+
+Location: Smith Family Clinic For
+Genomic Medicine LLC
+701 MCMILLIAN WAY NW
+SUITE A
+HUNTSVILLE, AL, 35806-
+2922
+(256)327-9640
+
+Subjective
+
+Chief Complaint
+
+John Mickel is a 32-year-old male seen previously on 10/24/2017 at the Smith Family Clinic for
+Genomic Medicine for genetics evaluation of failure to thrive, recurrent vomiting, and frequent
+infections. At that time, whole genome sequencing was ordered. Mr. Mickel joins Dr. David Bick,
+geneticist, and Whitley Kelley, MS, CGC, genetic counselor, by phone to discuss the results of that
+testing. Mr. Mickel reports that there has been no overall change in his symptomatology since his
+previous appointment. He states he is still thin at 108 lbs, with minimal fat and muscle. He reports
+continuing low appetite and fatigue, but decreased vomiting. Mr. Mickel also reports that he still
+has small warts on his hands and recently took fluconozole for a chest rash.
+
+Assessment
+
+Diagnosis
+
+John Mickel is a 32-year-old male with a history of failure to thrive, recurrent vomiting, and
+frequent infections. He previously underwent whole genome sequencing in an effort to provide a
+genetic diagnosis for these symptoms, and these results were discussed via phone today.
+ 
+Mr. Mickel's whole genome sequencing report did not include any primary findings, or findings
+related to the indication for testing. We discussed that this does not rule out a genetic cause for his
+symptoms. It is possible that upon future reanalysis of Mr. Mickel's whole genome sequencing
+data, more information regarding a genetic reason for his symptoms could be uncovered as
+medical knowledge improves over time. At this time, the genetic etiology for his condition remains
+unknown.
+ 
+We also discussed Mr. Mickel's secondary results, or results not related to the indication for
+testing. His results indicated that he is an unaffected carrier for five autosomal recessive
+conditions. The first variant, in the ALDOB gene (c.448G>C, p.Ala150Pro, pathogenic), is
+associated with autosomal recessive hereditary fructose intolerance. This is a disorder in which
+fructose is unable to be properly metabolized and can lead to severe gastrointestinal and
+neurodevelopmental symptoms if left untreated. Mr. Mickel reports that this was at one time on the
+differential for his symptoms, but that fructose avoidance showed no improvement. We
+emphasized that though this condition was once on the differential for him, affected individuals
+would be expected to have two variants in ALDOB, where Mr. Mickel only has one. This means
+that he is an unaffected carrier of this condition and that this variant is not expected to be related
+to his current symptoms.
+ 
+The second variant, in the GJB2 gene (c.35delG, p.Gly12ValfsTer2, pathogenic), is associated
+with autosomal recessive deafness. Variation in this gene is the most common form of non-
+
+3
+0
+
+:
+
+2
+4
+
+:
+
+1
+1
+
+ 
+
+8
+1
+0
+2
+
+/
+
+4
+0
+
+/
+
+ 
+
+5
+0
+D
+V
+A
+D
+
+I
+
+ 
+,
+
+i
+
+I
+
+K
+C
+B
+ 
+y
+b
+ 
+d
+e
+w
+e
+v
+e
+R
+ 
+d
+n
+a
+ 
+d
+e
+n
+g
+S
+ 
+y
+
+i
+
+l
+l
+
+i
+
+a
+c
+n
+o
+r
+t
+c
+e
+E
+
+l
+
+SMITH FAMILY CLINIC FOR GENOMIC MEDICINE LLC | 701 MCMILLIAN WAY NW, SUITE A, HUNTSVILLE, AL 35806-2922 | Phone (256)327-9640
+
+Page 1 of 2
+
+MICKEL, JOHN (06/16/1985) #HF180081690
+
+Encounter DOS: 04/25/2018
+
+syndromic hereditary deafness. The third variant, in the GYG1 gene (c.304G>C, p.Asp102His,
+pathogenic), is associated with autosomal recessive polyglucosan body myopathy. This is a slowly
+progressive condition characterized by muscle weakness and atrophy as well as particular findings
+on muscle biopsy. The fourth variant, in the DNASE2 gene (c.87-2A>G, likely pathogenic), is
+associated with DNase II deficiency, which has recently been linked to type I interferon-mediated
+autoinflammation (PMID: 29259162). The fifth variant, in the MGME1 gene (c.-60+1G>C, likely
+pathogenic), is associated with autosomal recessive mitochondrial DNA depletion syndrome type
+11. This condition includes many traditional features of mitochondrial disorders including
+neurologic and neuromuscular complications and other multisystem symptoms.
+ 
+We reviewed that being a carrier for these conditions is unlikely to affect Mr. Mickel's health, but it
+could be important information in decisions about family planning and for other family members.
+We discussed that knowing Mr. Mickel is a carrier for these conditions means that his siblings and
+other family members could also be carriers. We reviewed that although carriers do not have
+symptoms of a disorder, if they have children with a person who is a carrier for the same disease,
+each child has a 25% chance to be affected. We reviewed that family members who wish to find
+out if they are carriers for these disease can have targeted genetic testing, which looks at only the
+specific locations identified in Mr. Mickel to see if the variant is present or absent in them.
+ 
+We also discussed Mr. Mickel's pharmacogenomic results. Pharmacogenomics refers to genomic
+variation that can impact the metabolism of certain medications. His results indicated that he may
+have altered metabolism of amitryptyline, citalopram, escitalopram, ribavarin, PEG interferon-alfa-
+2b, PEG interferon-alfa-2a, telaprevir, atazanavir, and ritonavir, and that further consideration
+should be given to dosing or usage of these medications. We emphasized that decisions regarding
+changes in usage or dosing of medications should be made by Mr. Mickel's physician. There are
+other factors which influence a physician's decision to prescribe a certain drug or dose beyond
+pharmacogenetics. See laboratory report for more information.
+
+Plan
+
+Care Plan
+
+Mr. Mickel is encouraged to contact our clinic in approximately two years to initiate a reanalysis of
+his whole genome sequencing data.
+
+Objective
+
+Problem List
+
+Failure To Thrive (disorder) (Onset: 10/26/2017 - Active)
+Failure To Gain Weight (finding) (Onset: 10/26/2017 - Active)
+Underweight (finding) (Onset: 10/26/2017 - Active)
+Cachexia (finding) (Onset: 10/26/2017 - Active)
+Polyuria (finding) (Onset: 10/26/2017 - Active)
+Sweaty Hands (finding) (Onset: 10/26/2017 - Active)
+Sweaty Feet (finding) (Onset: 10/26/2017 - Active)
+(skin Infections Nos) Or (perleche) (Onset: 10/26/2017 - Active)
+Muscle Atrophy (disorder) (Onset: 10/26/2017 - Active)
+
+3
+0
+
+:
+
+2
+4
+
+:
+
+1
+1
+
+ 
+
+8
+1
+0
+2
+
+/
+
+4
+0
+
+/
+
+ 
+
+5
+0
+D
+V
+A
+D
+
+I
+
+ 
+,
+
+i
+
+I
+
+K
+C
+B
+ 
+y
+b
+ 
+d
+e
+w
+e
+v
+e
+R
+ 
+d
+n
+a
+ 
+d
+e
+n
+g
+S
+ 
+y
+
+i
+
+l
+l
+
+i
+
+a
+c
+n
+o
+r
+t
+c
+e
+E
+
+l
+
+SMITH FAMILY CLINIC FOR GENOMIC MEDICINE LLC | 701 MCMILLIAN WAY NW, SUITE A, HUNTSVILLE, AL 35806-2922 | Phone (256)327-9640
+
+Page 2 of 2
+
+
